@@ -1,0 +1,5 @@
+1. Letakkan folder crud_ci di dalam folder htdocs
+2. Sebelum dibuka di browser jangan lupa IMPORT DATABASENYA biar gak error
+3. Kalau sak Error, baca lagi dari awal. Soalnya di lappy gue aman aman aja kok.
+4. Pelajari yaa. kalau gak ngerti dipertemuan ke 5 kita bahas
+5. Fighting ya wkwkwkw. W dukung LOE semua berhasil di MATAKULIAH INI :') ^_^
