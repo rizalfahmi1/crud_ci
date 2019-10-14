@@ -9,11 +9,7 @@ class Mahasiswa extends CI_Controller {
         $this->load->model('Model_mahasiswa');
     }
 
-	public function index()
-	{
-		$data['data'] =$this->Model_mahasiswa->get_data();		
-		$this->load->view('tampil_data_mhs',$data);	
-	}
+
 
 	// public function tambah(){
 	// 	$data['judul']		= 'Tambah Data';
